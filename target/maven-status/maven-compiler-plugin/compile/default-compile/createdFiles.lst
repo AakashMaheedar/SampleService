@@ -1,0 +1,6 @@
+com/freshchat/config/ApplicationInitializer.class
+com/freshchat/exception/ApplicationException.class
+com/freshchat/repository/SampleRepository.class
+com/freshchat/domain/Sample.class
+com/freshchat/resources/SampleController.class
+com/freshchat/service/SampleService.class
